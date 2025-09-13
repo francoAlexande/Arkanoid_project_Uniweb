@@ -4,15 +4,15 @@
 
 > One paragraph statement about the project.
 
-![screenshot](Arkanoid_image.png)
+![screenshot](img/Arkanoid_image.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JavaScript
+- Canvas
+- Sprites and oficial images of Arkanoid
 
 ## Live Demo
 
